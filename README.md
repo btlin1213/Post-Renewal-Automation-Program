@@ -1,4 +1,4 @@
-# Python-PostRenewal-Automation-Program
+# Python-Post-Renewal-Automation-Program
 Script for renewing advertisement and vacancies posts on Yeeyi.com with **Python 3** and **Selenium**. Automate the process of updating your posts in less than 100 lines.
 
 # Background
