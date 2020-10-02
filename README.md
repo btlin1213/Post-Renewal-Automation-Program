@@ -8,7 +8,7 @@ Yeeyi.com is one of Australia's largest comprehensive Chinese online portal and 
 To use this script for your own Yeeyi.com posts, you need to fill out the lines located near the start of the script, under the comment `TO BE FILLED BY USER`. The fields are personal account details such as username, password, and the keywords in the type of posts you'd like to  update. Each line should be rather self-explanatory, but do contact me if there are any confusions.
 
 # Comments
-One way to 'lift-thread' in Yeeyi.com is by commenting on the post. The comments used in this script is **randomly** drawn from a text file called `comments.txt`, which you need to create yourself. 
+One way to 'lift-thread' in Yeeyi.com is by commenting on the post. The comments used in this script is **randomly** drawn from a text file called `comments.txt`, which you need to create yourself. Simply add a file called `comments.txt` and place a suitable comment **on each new line**.
 
 # Skills Involved
 - Python
